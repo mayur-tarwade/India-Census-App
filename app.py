@@ -8,7 +8,7 @@ st.set_page_config(layout='wide')
 st.title('India Census 2011 Analysis')
 
 #Dataset Import
-df = pd.read_csv(\Indian_Census_2011.csv)
+df = pd.read_csv(Datasets/Indian_Census_2011)
 list_of_States = list(df['State'].unique())
 list_of_States.insert(0,'Overall India')
 
