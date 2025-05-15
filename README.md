@@ -27,4 +27,8 @@ This dataset contains two distinct tables that offer valuable insights into the 
 
 These datasets provide a comprehensive view of both the demographic and geographical aspects of Indian districts, enabling in-depth analysis of population trends and regional characteristics.
 
+### Tools Used:
+**Python:** For exploratory data analysis.
+**Streamlit:** For App developement and deployment.
+
 App Link https://india-census-app.streamlit.app/
