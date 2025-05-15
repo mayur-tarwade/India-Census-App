@@ -29,6 +29,7 @@ These datasets provide a comprehensive view of both the demographic and geograph
 
 ### Tools Used:
 **Python:** For exploratory data analysis.
+
 **Streamlit:** For App developement and deployment.
 
 App Link https://india-census-app.streamlit.app/
